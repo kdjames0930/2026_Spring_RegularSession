@@ -5,3 +5,5 @@
 과제0: 기초과제
 
 과제1 : Math for ML
+
+과제2 : ML / CNN
